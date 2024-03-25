@@ -27,6 +27,7 @@ function AlbumFeature(props) {
     return (
         <div>
             <h2>Có thể bạn sẽ thích đấy</h2>
+            {/* {albumList} truyền data để bên  AlbumList kiểm tra cái AlbumList.proptype là isRequired*/}
             <AlbumList albumList={albumList} />
         </div>
     );

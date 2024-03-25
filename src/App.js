@@ -3,7 +3,7 @@ import AlbumFeature from './features/Album/pages';
 
 function App() {
   // const name = 'Le Van Viet'
-  // const age = 20;
+  // const age = 20; 
   // const isMale = true;
   // const student = {
   //   name: 'Easy Frontend'
